@@ -1,3 +1,15 @@
+# hi-nest
+
+- 목적 : Typescript + NestJS 공부
+- 설명 : 노마드코더/ NestJS로 API 만들기
+- 짧은 후기
+  - postman 대신에 insomnia 를 사용했다. UI가 깔끔해서 자주 써야겠다고 생각했다. 
+  - 추가로 unit 테스트와 e2e 테스트도 배울 수 있어서 유익했다.</div>
+
+- 블로깅 : 
+  - 예정
+  
+---
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
