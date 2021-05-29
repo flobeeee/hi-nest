@@ -3,6 +3,7 @@
 - 목적 : Typescript + NestJS 공부
 - 설명 : 노마드코더/ NestJS로 API 만들기
 - 짧은 후기
+  - 앞으로 API 서버 구축할 때 NestJS 필수로 써야겠다는 생각을 했다. (구조, 안정감, 좋은 옵션등 이점 多)
   - postman 대신에 insomnia 를 사용했다. UI가 깔끔해서 자주 써야겠다고 생각했다. 
   - 추가로 unit 테스트와 e2e 테스트도 배울 수 있어서 유익했다.</div>
 
