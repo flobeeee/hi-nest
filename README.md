@@ -8,7 +8,7 @@
   - 추가로 unit 테스트와 e2e 테스트도 배울 수 있어서 유익했다.</div>
 
 - 블로깅 : 
-  - 예정
+  - [NestJS 기초 정리](https://velog.io/@flobeeee/TIL-NestJS)
   
 ---
 <p align="center">
